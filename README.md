@@ -61,11 +61,17 @@ npm install
 
 🔑 Environment Variables
 Backend (.env)
+
 PORT=3000
+
 MONGO_URL=your_mongodb_url
+
 JWT_SECRET=your_secret
+
 CLOUDINARY_API_KEY=xxxx
+
 CLOUDINARY_API_SECRET=xxxx
+
 CLOUDINARY_CLOUD_NAME=xxxx
 
 ▶️ Run Locally
@@ -101,7 +107,7 @@ Backend → Render
 Frontend → Firebase Hosting
 📸 Screenshots
 
-(Add screenshots here if you want)
+(screenshots are comming soon )
 
 👨‍💻 Developer
 
