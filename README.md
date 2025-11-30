@@ -49,7 +49,7 @@ Render (Deployment)
 
 📦 Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/infina-food-reels.git
+git clone https://github.com/Mayur111-code/Reels-With-Food/tree/main
 
 2️⃣ Install Backend Dependencies
 cd backend
